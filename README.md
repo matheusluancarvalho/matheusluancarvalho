@@ -1,4 +1,4 @@
-### Olá, me chamo Matheus Carvalho 👋
+### Hi, my name is Matheus Carvalho 👋
 
 - 🔭 Intern: Back End - Java
 - 🌱 Data Science: Student
@@ -20,6 +20,7 @@
   <img align="center" alt="Matheus-Numpy" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
   <img align="center" alt="Matheus-Pandas" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
   
+  <img align="center" alt="Matheus-Docker" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Matheus-MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Matheus-PostgreSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
     
