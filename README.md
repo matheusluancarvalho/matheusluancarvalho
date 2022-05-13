@@ -1,11 +1,9 @@
 ### Olá, me chamo Matheus Carvalho 👋
 
-- 🔭 Estagiário Back End - Java
-- 🌱 Atualmente estudo ciência de dados
+- 🔭 Intern: Back End - Java
+- 🌱 Data Science: Student
 - 📫 matheusluancarvalho@gmail.com
-- 😄 Pronouns: ele/dele
-
-
+- 😄 Pronouns: he/him
 
 <div align="center">
   <a href="https://github.com/matheusluancarvalho">
@@ -25,7 +23,7 @@
   <img align="center" alt="Matheus-MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Matheus-PostgreSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
     
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/matheusluancarvalho/matheusluancarvalho/blob/main/giphy.gif">
+<img align="right" alt="Matheus-Developer" height="150" style="border-radius:50px;" src="https://github.com/matheusluancarvalho/matheusluancarvalho/blob/main/developer-dribbble.gif">
 </div>
 
  ##
