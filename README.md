@@ -1,8 +1,8 @@
 ### Hi, my name is Matheus Carvalho 👋
 
-- 🔭 Intern: Back End - Java
+- 🔭 Intern: Back End - Python
 - 🌱 Data Science: Student
-- 📫 matheusluancarvalho@gmail.com
+- 📫 matheuscarvalhophd@yahoo.com
 - 😄 Pronouns: he/him
 
 <div align="center">
